@@ -1,0 +1,16 @@
+2021/11/25 14:41:17 [OluwatosinThompson/Jo2DZ1SB2U-000001] "POST http://localhost:20480/otp/requests HTTP/1.1" from [::1]:53244 - 401 8B in 4.1098ms
+2021/11/25 14:45:12 400 Request body contains an invalid value for the "strict" field (at position 42) 0xc00014a3d8
+2021/11/25 14:45:12 [OluwatosinThompson/f8fzwAoyT0-000001] "POST http://localhost:20480/otp/requests HTTP/1.1" from [::1]:50410 - 400 338B in 1.5755ms
+2021/11/25 14:45:33 400 Request body contains unknown field "user-reference" 0xc000252030
+2021/11/25 14:45:33 [OluwatosinThompson/f8fzwAoyT0-000002] "POST http://localhost:20480/otp/requests HTTP/1.1" from [::1]:50410 - 400 286B in 205.7µs
+2021/11/25 14:45:52 [OluwatosinThompson/f8fzwAoyT0-000003] "POST http://localhost:20480/otp/requests HTTP/1.1" from [::1]:50410 - 201 39B in 46.1945ms
+2021/11/25 14:47:25 [OluwatosinThompson/f8fzwAoyT0-000004] "POST http://localhost:20480/otp/requests HTTP/1.1" from [::1]:50410 - 201 39B in 3.0671ms
+2021/11/25 15:15:06 [OluwatosinThompson/3boefnfkZz-000001] "POST http://localhost:20480/otp/requests HTTP/1.1" from [::1]:54717 - 201 39B in 3.9468ms
+2021/11/25 15:16:26 [OluwatosinThompson/cxg3IlVdzW-000001] "POST http://localhost:20480/otp/requests HTTP/1.1" from [::1]:64214 - 201 39B in 10.9676ms
+2021/11/25 15:18:28 [OluwatosinThompson/LxisTKOTBp-000001] "POST http://localhost:20480/otp/requests HTTP/1.1" from [::1]:54556 - 201 39B in 3.6669ms
+2021/11/25 15:19:36 [OluwatosinThompson/LxisTKOTBp-000002] "POST http://localhost:20480/otp/requests/validate HTTP/1.1" from [::1]:54556 - 201 18B in 15.6095ms
+2021/11/25 15:19:49 400 invalid otp entity.OtpStruct mongo: no documents in result
+2021/11/25 15:19:49 [OluwatosinThompson/LxisTKOTBp-000003] "POST http://localhost:20480/otp/requests/validate HTTP/1.1" from [::1]:54556 - 400 239B in 1.492ms
+2021/11/26 13:32:12 400 Request body contains an invalid value for the "strict" field (at position 23) 0xc0005340b8
+2021/11/26 13:32:12 [OluwatosinThompson/Ewa0n3kFUA-000001] "POST http://localhost:20480/otp/requests HTTP/1.1" from [::1]:59302 - 400 338B in 509.8µs
+2021/11/26 13:32:23 [OluwatosinThompson/Ewa0n3kFUA-000002] "POST http://localhost:20480/otp/requests HTTP/1.1" from [::1]:59302 - 201 39B in 4.5267ms
